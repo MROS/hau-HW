@@ -19,7 +19,7 @@
 
 那你應該要寫出如下
 ``` javascript
-function add_one(x) {
+function addOne(x) {
 	return x + 1;
 }
 ```
